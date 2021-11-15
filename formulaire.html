@@ -5,40 +5,45 @@
         <title>Etude de formulaire</title>
     </head>
     <body>  
+        
+        <p> Merci de bien vouloir rempli le formulaire ci-dessous:</p>
+        
       <form action="" method="get">
-        <label> Nom :
-           <input type="text" >
+        <label for="NAME"> Nom :
+           <input type="text" name="NAME" >
          </label>
          </br>
         
-         <label> Prénom :
-            <input type="text" >
+         <label for="SURNAME"> Prénom :
+            <input type="text" name="SURNAME" >
          </label>
          </br>
     
-         <label> Adresse :
-            <input type="text" >
+         <label for="ADDR"> Adresse :
+            <input type="text" name="ADDR">
          </label>
          </br>
 
-         <label> CP :
-            <input type="text" >
+         <label for="CP"> CP :
+            <input type="text" name="CP" >
          </label>
          </br>
 
-         <label> email :
-            <input type="text" >
+         <label for="MAIL"> email :
+            <input type="text"name="MAIL" >
          </label>
          </br>
 
-         <label> à choisir:
+         <label for=""> à choisir:
             <select>
          </label>
          </br>
 
-         <label> Commentaires:
+         <label for=""> Commentaires: champ libre
            <textarea> 
          </label>
+             
+             envoyer <input type="submit">
       </form>
     </body>
 </html>
