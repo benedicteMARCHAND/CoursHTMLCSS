@@ -8,8 +8,8 @@
         
         <p> Merci de bien vouloir rempli le formulaire ci-dessous:</p>
         
-      <form action="" method="get">
-        <label for="NAME"> Nom :
+      <form action="index.html" method="post" required>
+        <label for="NAME"> *Nom :
            <input type="text" name="NAME" >
          </label>
          </br>
@@ -29,18 +29,21 @@
          </label>
          </br>
 
-         <label for="MAIL"> email :
+         <label for="MAIL" required> *email :
             <input type="text"name="MAIL" >
          </label>
          </br>
 
-         <label for=""> à choisir:
-            <select>
+         <label for="subjets"> à choisir:
+            <select name="subjets" required>
+                <option value="price">les prix</option>
+                <option value="support">le support</option>
+             </select>
          </label>
          </br>
 
-         <label for=""> Commentaires: champ libre
-           <textarea> 
+         <label for="insidetext"> Commentaires: champ libre
+           <textarea name="insidetext">  </textarea> 
          </label>
              
              envoyer <input type="submit">
