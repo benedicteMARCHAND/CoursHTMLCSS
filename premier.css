@@ -1,2 +1,5 @@
-footer {color: green; background: yellow;}
-header {background: yellow;}
+
+a {color: yellow;}
+header a {color: blue;}
+nav a {color: green;}
+footer a {color: red;}
