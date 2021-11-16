@@ -1,5 +1,19 @@
+/*
+fichier css de base de BM 
+*/
+
+/* generaux */
+html {
+  margin:0px;
+  padding:0px;
+}
+
 a {text-decoration: none;}
-nav a {color: red;}
+
+/* mutualisation */
 .lienspecial {color: green}
+
+/* specifique */
+nav a {color: red;}
 section img {margin-bottom: 20px;}
 footer p {size : 12px;}
