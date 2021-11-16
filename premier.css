@@ -1,4 +1,5 @@
-header a {color: blue;}
-nav a {color: green;}
-section a {color: orange;}
-footer a {color: red;}
+a {text-decoration: none;}
+nav a {color: red;}
+.lienspecial {color: green}
+section img {margin-bottom: 20px;}
+footer p {size : 12px;}
