@@ -13,8 +13,8 @@ section {width: 50%; margin-left :auto; margin-right: auto;}
 
 /* mutualisation */
 .lienspecial {color: green}
-header, footer {background: black; padding: 20px}
-head a , footer a, footer p {color white ;}
+header , footer {background: black; padding: 20px;}
+head a , footer a , footer p {color white ;}
 
 /* specifique */
 nav a {color: red;}
