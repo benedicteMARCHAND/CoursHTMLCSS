@@ -13,7 +13,7 @@ section {width: 50%; margin-left :auto; margin-right: auto;}
 
 /* mutualisation */
 .lienspecial {color: green}
-.HeadFoot {background: black; color: #FDFEE; padding: 20px}
+.HeadFoot {background: black; color: red; padding: 20px}
 
 /* specifique */
 nav a {color: red;}
