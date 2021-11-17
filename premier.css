@@ -14,12 +14,14 @@ nav {background: grey;
   width: 25%; 
   position: fixed; 
   right: 10px;} 
+article {margin-bottom: 30px; margin-top: 30px;}
 
 
 /* mutualisation */
 .lienspecial {color: green;}
 header , footer {background: black; padding: 20px;}
 header a, footer a, footer p {color: white !important;}
+article h2 {color: black; font-family: arial;}
 
 /* specifique */
 nav a {color: red;}
