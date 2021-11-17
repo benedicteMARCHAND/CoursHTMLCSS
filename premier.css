@@ -10,7 +10,7 @@ html {
 
 a {text-decoration: none;}
 section {width: 50%; margin-left :auto; margin-right: auto;}
-nav {background: grey; width 500px; position: relative;} 
+nav {background: grey; width 75%; position: relative;} 
 
 /* mutualisation */
 .lienspecial {color: green;}
