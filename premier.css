@@ -32,7 +32,7 @@ header a, footer a, footer p {color: white !important;}
 article h2 {color: blue; font-family: Estonia , cursive ; margin-bottom: 30px;}
 
 /* .textarticle { position: absolute; } */
-.imgarticle { position: relative; top: 0px; right: 0px;}
+/* .imgarticle { position: relative; top: 0px; right: 0px;} */
 
 /* specifique */
 nav a {color: red;}
