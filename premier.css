@@ -14,16 +14,16 @@ nav {background: grey;
   width: 25%; 
   position: fixed; 
   right: 10px;} 
+article {border-top: 1px solid black;
+    margin-bottom: 30px; }
 
 /* mutualisation */
 .lienspecial {color: green;}
 header , footer {background: black; padding: 20px;}
 header a, footer a, footer p {color: white !important;}
-
 article h2 {color: black; font-family: arial; margin-bottom: 30px;}
-article {border-top: 1px solid black;
-    margin-bottom: 30px; }
-/* article:first { border-top: 0px}  */
+
+/* article:first { border-top: 0px}  pseudo-class pour supprimer pour le 1er element */
 .imgarticle {width: 30% !important; position: relative; top: 0px; right: 0px;}
 
 /* specifique */
