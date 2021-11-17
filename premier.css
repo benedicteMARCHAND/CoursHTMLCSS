@@ -22,7 +22,7 @@ header a, footer a, footer p {color: white !important;}
 
 article {margin-bottom: 30px; margin-top: 30px;}
 article h2 {color: black; font-family: arial;}
-.imgarticle {width: 30% !important; position: relative; top: 0px; left: 300px;}
+.imgarticle {width: 30% !important; position: relative; top: 0px; right: 0px;}
 
 /* specifique */
 nav a {color: red;}
