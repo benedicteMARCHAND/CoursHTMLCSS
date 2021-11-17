@@ -12,7 +12,8 @@ a {text-decoration: none;}
 section {width: 50%; margin-left :auto; margin-right: auto;}
 nav {background: grey; 
   width: 25%; 
-  position: fixed; right: 10px;} 
+  position: fixed; 
+  right: 10px;} 
 
 
 /* mutualisation */
