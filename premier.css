@@ -21,7 +21,7 @@ article {margin-bottom: 30px; margin-top: 30px;}
 header , footer {background: black; padding: 20px;}
 header a, footer a, footer p {color: white !important;}
 article h2 {color: black; font-family: arial;}
-article img {position: relative; top: 0px; left: 0px; right: 100px;}
+article img {width: 30%; position: relative; top: 0px; left: 100px;}
 
 /* specifique */
 nav a {color: red;}
