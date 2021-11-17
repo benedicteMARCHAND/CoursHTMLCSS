@@ -29,7 +29,7 @@ article img {width: 30%;}
 .lienspecial {color: green;}
 header , footer {background: black; padding: 20px;}
 header a, footer a, footer p {color: white !important;}
-article h2 {color: black; font-family: Estonia; margin-bottom: 30px;}
+article h2 {color: black; font-family: Estonia , curive ; margin-bottom: 30px;}
 
 /* .textarticle { position: absolute; } */
 .imgarticle { position: relative; top: 0px; right: 0px;}
