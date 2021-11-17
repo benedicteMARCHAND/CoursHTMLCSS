@@ -7,11 +7,6 @@ html {
   margin:0px;
   padding:0px;
 }
-/* pour la POlice ESTONIA */
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Estonia&display=swap" rel="stylesheet">
-
 
 a {text-decoration: none;}
 section {width: 75%; margin-left :auto; margin-right: auto;}
@@ -19,8 +14,10 @@ nav {background: grey;
   width: 25%; 
   position: fixed; 
   right: 10px;} 
+
 article {border-top: 1px solid black;
     margin-bottom: 30px; }
+
 /* article:first-child { border-top: 0px}  pseudo-class pour supprimer pour le 1er element */
 article img {width: 30%; float: right;}
 
