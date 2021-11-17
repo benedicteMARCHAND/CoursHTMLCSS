@@ -10,13 +10,12 @@ html {
 
 a {text-decoration: none;}
 section {width: 50%; margin-left :auto; margin-right: auto;}
+nav {background: grey; width 500px; position: relative; right: 10px}
 
 /* mutualisation */
 .lienspecial {color: green;}
 header , footer {background: black; padding: 20px;}
-header a, footer a, footer p {
-  color: white !important;
-}
+header a, footer a, footer p {color: white !important;}
 
 /* specifique */
 nav a {color: red;}
