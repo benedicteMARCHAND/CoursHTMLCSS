@@ -19,7 +19,7 @@ article {border-top: 1px solid black;
     margin-bottom: 30px; }
 
 /* article:first-child { border-top: 0px}  pseudo-class pour supprimer pour le 1er element */
-.chaton {width: 30%; float: right;}
+.chaton {width: 20%; float: right; margin: 10px;}
 #chaton2{width: 30%; float: right;}
 
 
