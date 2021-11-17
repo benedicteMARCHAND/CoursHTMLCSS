@@ -16,8 +16,8 @@ nav {background: grey;
   right: 10px;} 
 article {border-top: 1px solid black;
     margin-bottom: 30px; }
-/* article:first { border-top: 0px}  pseudo-class pour supprimer pour le 1er element */
-img {width: 30%;}
+/* article:first-child { border-top: 0px}  pseudo-class pour supprimer pour le 1er element */
+article img {width: 30%;}
 
 
 /* mutualisation */
@@ -25,7 +25,6 @@ img {width: 30%;}
 header , footer {background: black; padding: 20px;}
 header a, footer a, footer p {color: white !important;}
 article h2 {color: black; font-family: arial; margin-bottom: 30px;}
-
 
 
 .imgarticle { position: relative; top: 0px; right: 0px;}
